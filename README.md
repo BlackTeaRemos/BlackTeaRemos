@@ -1,6 +1,4 @@
-BRING IN THE BLACK TEA
-
-Discord: BlackTeaRemos //#5570
+Critically required tea
 
 <!---
 BlackTeaRemos/BlackTeaRemos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
