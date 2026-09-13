@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Black Tea code mark</title>
+<desc id="desc">An angular tea cup between code brackets, in black and orange.</desc>
+<rect x="0.5" y="0.5" width="255" height="255" fill="#0E0E12" fill-opacity="1" stroke="#2A2A38" stroke-width="1"/>
+<rect x="1" y="1" width="254" height="24" fill="#E07830" fill-opacity="1"/>
+<text x="14" y="18" fill="#0E0E12" font-size="12" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="700" letter-spacing="0.65" text-anchor="start">BT / CODE</text>
+<g transform="translate(128 138) scale(0.97)" fill="none" stroke="#E07830" stroke-linecap="square" stroke-linejoin="miter">
+<path d="M-72 -24 L-96 0 L-72 24 M72 -24 L96 0 L72 24" stroke-width="4"/>
+<path d="M-34 -10 H24 V36 L12 49 H-22 L-34 37 Z" fill="#E07830" fill-opacity="0.09" stroke-width="4"/>
+<path d="M25 0 H44 V28 H25 M-42 62 H36" stroke-width="4"/>
+<path d="M-22 -31 L-30 -44 L-18 -57 L-26 -70 M0 -31 L-8 -44 L4 -57 L-4 -70 M22 -31 L14 -44 L26 -57 L18 -70" stroke-width="3"/>
+</g>
+<path d="M1 230.5 H255" fill="none" stroke="#2A2A38"/>
+<text x="128" y="248" fill="#808090" font-size="11" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="400" letter-spacing="0.8" text-anchor="middle">BLACKTEAREMOS</text>
+</svg>

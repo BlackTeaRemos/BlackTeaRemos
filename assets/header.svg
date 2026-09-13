@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="336" viewBox="0 0 1120 336" role="img" aria-labelledby="title desc">
+<title id="title">Black Tea | Software engineer</title>
+<desc id="desc">BlackTeaRemos. C++ and TypeScript. Reverse engineering, performance optimization, and practical tooling. Critically required tea.</desc>
+<rect x="0.5" y="0.5" width="1119" height="335" fill="#0E0E12" fill-opacity="1" stroke="#2A2A38" stroke-width="1"/>
+<rect x="1" y="1" width="1118" height="30" fill="#E07830" fill-opacity="1"/>
+<text x="28" y="21" fill="#0E0E12" font-size="13" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="700" letter-spacing="0.65" text-anchor="start">BLACKTEAREMOS / DEVELOPER PROFILE</text>
+<text x="1092" y="21" fill="#0E0E12" font-size="13" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="700" letter-spacing="0.65" text-anchor="end">C++ / TYPESCRIPT</text>
+<text x="29" y="78" fill="#E07830" font-size="15" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="500" letter-spacing="1" text-anchor="start">SOFTWARE ENGINEER</text>
+<text x="24" y="158" fill="#C8C8D0" font-size="82" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="-3" text-anchor="start">BLACK TEA</text>
+<text x="29" y="201" fill="#C8C8D0" font-size="23" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="400" letter-spacing="0" text-anchor="start">Tools for systems, games, and developers.</text>
+<rect x="29.5" y="242.5" width="91" height="32" fill="#E07830" fill-opacity="0.14" stroke="#E07830" stroke-width="1"/>
+<text x="43" y="264.8" fill="#E07830" font-size="18" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="500" letter-spacing="0" text-anchor="start">C++</text>
+<rect x="131.5" y="242.5" width="174" height="32" fill="#E07830" fill-opacity="0.14" stroke="#E07830" stroke-width="1"/>
+<text x="145" y="264.8" fill="#E07830" font-size="18" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="500" letter-spacing="0" text-anchor="start">TypeScript</text>
+<g transform="translate(613 126) scale(0.49)" fill="none" stroke="#E07830" stroke-linecap="square" stroke-linejoin="miter">
+<path d="M-72 -24 L-96 0 L-72 24 M72 -24 L96 0 L72 24" stroke-width="4"/>
+<path d="M-34 -10 H24 V36 L12 49 H-22 L-34 37 Z" fill="#E07830" fill-opacity="0.09" stroke-width="4"/>
+<path d="M25 0 H44 V28 H25 M-42 62 H36" stroke-width="4"/>
+<path d="M-22 -31 L-30 -44 L-18 -57 L-26 -70 M0 -31 L-8 -44 L4 -57 L-4 -70 M22 -31 L14 -44 L26 -57 L18 -70" stroke-width="3"/>
+</g>
+<rect x="728.5" y="53.5" width="363" height="231" fill="#0B0B0F" fill-opacity="1" stroke="#2A2A38" stroke-width="1"/>
+<rect x="729" y="54" width="362" height="28" fill="#E07830" fill-opacity="0.7"/>
+<text x="745" y="73" fill="#0E0E12" font-size="14" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="700" letter-spacing="0.9" text-anchor="start">FOCUS</text>
+<text x="745" y="122" fill="#E07830" font-size="14" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="400" letter-spacing="0" text-anchor="start">01</text>
+<text x="785" y="122" fill="#C8C8D0" font-size="19" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="400" letter-spacing="0" text-anchor="start">Reverse engineering</text>
+<path d="M729 147.5 H1091" fill="none" stroke="#1A1A24"/>
+<text x="745" y="187" fill="#E07830" font-size="14" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="400" letter-spacing="0" text-anchor="start">02</text>
+<text x="785" y="187" fill="#C8C8D0" font-size="19" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="400" letter-spacing="0" text-anchor="start">Performance optimization</text>
+<path d="M729 212.5 H1091" fill="none" stroke="#1A1A24"/>
+<text x="745" y="252" fill="#E07830" font-size="14" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="400" letter-spacing="0" text-anchor="start">03</text>
+<text x="785" y="252" fill="#C8C8D0" font-size="19" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="400" letter-spacing="0" text-anchor="start">Tooling &amp; integrations</text>
+<path d="M1 305.5 H1119" fill="none" stroke="#2A2A38"/>
+<rect x="29" y="318" width="5" height="5" fill="#E07830" fill-opacity="1"/>
+<text x="45" y="325" fill="#808090" font-size="13" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="400" letter-spacing="0.4" text-anchor="start">CRITICALLY REQUIRED TEA</text>
+<text x="1091" y="325" fill="#808090" font-size="12" font-family="Fira Code, Consolas, Liberation Mono, monospace" font-weight="400" letter-spacing="0.3" text-anchor="end">SYSTEMS / GAMES / DEVELOPER TOOLS</text>
+</svg>
