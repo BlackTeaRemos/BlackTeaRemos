@@ -9,6 +9,11 @@ I build tools that make existing systems easier to extend, automate, and use. My
 
 A connected toolchain for creating, distributing, and loading mods.
 
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/toolchain-mobile.svg">
+  <img src="./assets/toolchain.svg" alt="Create mods with WGRD Mod Toolkit -> distribute signed releases with WGRD Mod Manager -> load them with WRG-Patcher." width="100%">
+</picture>
+
 | Project | What it does |
 | :--- | :--- |
 | **[WGRD Mod Toolkit](https://github.com/BlackTeaRemos/WGRD-Mod-Toolkit)** | Mod authoring SDK with a unified interface and automatic application updates. |
