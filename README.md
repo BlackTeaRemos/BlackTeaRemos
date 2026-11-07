@@ -2,13 +2,12 @@
   <source media="(max-width: 600px)" srcset="./assets/header-mobile.svg">
   <img src="./assets/header.svg" alt="Black Tea. Software engineer working in C++ and TypeScript, with a focus on reverse engineering, performance optimization, and practical tooling." width="100%">
 </picture>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'J3Z02A8IZ4');kofiwidget2.draw();</script>
 <!---
 I build tools that make existing systems easier to extend, automate, and use. My main languages are **C++** and **TypeScript**, with a focus on **reverse engineering**, **performance optimization**, and **practical tooling**.
 --->
 
 ## Wargame: Red Dragon
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3Z02A8IZ4)
 A connected toolchain for creating, distributing, and loading mods.
 
 <picture>
