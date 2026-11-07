@@ -9,7 +9,7 @@ I build tools that make existing systems easier to extend, automate, and use. My
 ## Wargame: Red Dragon
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3Z02A8IZ4)
 
-**          ** A connected toolchain for creating, distributing, and loading mods.
+**,          ** A connected toolchain for creating, distributing, and loading mods.
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/toolchain-mobile.svg">
